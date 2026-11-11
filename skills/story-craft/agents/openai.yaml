@@ -1,0 +1,4 @@
+interface:
+  display_name: "Story Craft"
+  short_description: "Test a story's entry, pressure, conflict, and reveals"
+  default_prompt: "Use $story-craft to find the weak points in this scene."

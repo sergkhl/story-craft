@@ -1,0 +1,12 @@
+schema_version: "1.1"
+name: diagnoses-a-flat-scene
+context:
+  scaffold_script: place-files.sh
+expected_outcome: |
+  A list of weak points ordered by how much each hurts the story, with no scores. Each item says
+  where it is in the scene, which test it fails, what the audience loses, and one concrete change.
+  The list covers at least these: the scene starts before anything happens (waking, breakfast, the
+  walk to work); nothing forces Marta or Jonas to act, and the decision is put off; the two agree,
+  so nobody stands in anyone's way; Marta states her fear and her change outright; the news about
+  the harbour master changes nothing; the scene ends on a summary of what it meant. The scene file
+  is left unchanged.

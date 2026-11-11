@@ -1,0 +1,7 @@
+---
+type: llm
+focus: trace
+weight: 1
+---
+
+The result matches this description: A list of weak points ordered by how much each hurts the story, with no scores. Each item says where it is in the outline, which test it fails, what the audience loses, and one concrete change. The list includes the split audience as a finding of its own: the teaser shows who set the fire to the viewers who happen to see it and not to the rest, and the notes accept both readings, but no episode can be built for viewers who know and viewers who do not. The change it proposes is one decision for the whole audience: hold the face back from everyone, or give it to everyone and build the season on what they know. The outline file is left unchanged.
