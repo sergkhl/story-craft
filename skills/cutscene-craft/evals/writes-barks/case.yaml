@@ -1,0 +1,16 @@
+schema_version: "1.1"
+name: writes-barks
+context:
+  scaffold_script: place-files.sh
+expected_outcome: |
+  barks.md holds, for each of the three triggers and each of the two crew members, several
+  versions of the line. The flare-up, which fires most, has the most versions, and they are the
+  shortest and plainest: a few words each, with no jokes, nicknames or running bits. The flare-up
+  lines tell the player what they can't see, such as where the new front is, how near it is or
+  which way it is moving, and none of them only announces that there is a fire; where that needs
+  the game to tell the line something, the file or the reply says so. Sol's lines and Finn's can
+  be told apart with the names covered. The partner-down lines say the ten seconds plainly and
+  early, and the file or the reply says the countdown must also be shown on screen, because a
+  bark can be missed. The partner-down lines can't fire for a player who is alone, no other line
+  assumes a partner, and no line fits only a first run. The file or the reply says what was
+  assumed about how often lines fire or how the game spaces them.

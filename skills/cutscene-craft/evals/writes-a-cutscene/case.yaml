@@ -1,0 +1,17 @@
+schema_version: "1.1"
+name: writes-a-cutscene
+context:
+  scaffold_script: place-files.sh
+expected_outcome: |
+  cutscene.md holds only a cutscene script that sets each beat's picture beside the lines heard
+  over it, with times that come to roughly 40 seconds, and says what each line is doing. The lines
+  total no more than about 100 words. The scene starts with the request already underway, not
+  with a greeting. No line says what its picture shows. Pell never asks the favour outright and
+  comes at it through an offer, a story or the weather; Ines never explains why she doesn't carry
+  passengers; nobody names what they feel. Ines's lines are short and run on numbers and the names
+  of things, Pell's are roundabout, and the two could not be swapped. The marker buoys and the
+  useless compass come out inside the scene as something one of them says to another for a
+  reason, and the reply says this must also be given to the player outside the cutscene. The reply
+  says that the unloading and refuelling are better played than shown, whether the script leaves
+  them out or keeps them as the designer asked. The reply offers alternates for at most five
+  lines, and gives the word count against the running time.

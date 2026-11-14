@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cutscene Craft"
+  short_description: "Test a cutscene's case, its pictures, and every spoken line"
+  default_prompt: "Use $cutscene-craft to find the weak points in this cutscene script."

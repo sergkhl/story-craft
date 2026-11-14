@@ -1,0 +1,19 @@
+schema_version: "1.1"
+name: redrafts-lines-in-place
+context:
+  scaffold_script: place-files.sh
+expected_outcome: |
+  scene-redraft.md holds the scene table with its eight rows, and the number, time and picture of
+  every row are the same as in scene.md. Only the lines differ, and a row may hold no line. Every
+  line fits its cut at speaking pace: no more than about three words for each second of its row.
+  No line only reports what its picture already shows: none announces that this is the last
+  order, and none tells the kitchen that a woman with a notebook has sat down at table nine,
+  though a line may use a detail from the picture to do something else. Nobody names what they feel:
+  no "worried", "scared" or "I believe in you". The old review is never handed to Su as news for
+  the audience's sake, as in "As you know, Chef", though Dario may bring it up and regret it. The
+  three can be told apart with the names covered: Su in few words, as orders in times or amounts,
+  with no praise and no names; Dario talking too much or joking; Pip asking or apologising. Su's
+  choice of Pip to cook the fish is never said outright. The lines answer one another instead of
+  standing as separate statements. The reply or the file lists each changed line before and after
+  with a reason, and anything better that would have needed a new picture or timing is listed
+  apart and not done. scene.md is left unchanged.

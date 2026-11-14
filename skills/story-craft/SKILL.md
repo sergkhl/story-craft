@@ -76,7 +76,8 @@ Scale each test to the piece, from a whole story down to an episode, a scene, or
 ad. A scene has its own late entry and its own pressing problem, each a part of the story's larger
 one. Follow the project's own form, whether prose, script, cutscene, or game narrative. The tests
 work inside any story shape, whether three acts, a hero's journey, or none, and they do not pick
-one for the piece.
+one for the piece. For a game's cutscenes as a form, and for its spoken lines one by one, use
+cutscene-craft when it is installed.
 
 ## Story facts
 
